@@ -1,1 +1,1 @@
-{"allocations": {"ARLP": 8.0, "BSM": 8.0, "GM": 12.0, "MHO": 12.0, "PBR": 6.0, "EC": 5.0, "VOD": 8.0, "VZ": 10.0, "RITM": 9.0, "OMF": 9.0, "ZIM": 8.0, "BAC": 5.0}, "frequency": 90, "name": "", "period": "days"}
+{"allocations": {"ARLP": 7.0, "BSM": 7.0, "GM": 10.0, "MHO": 10.0, "PBR": 6.0, "EC": 5.0, "VOD": 8.0, "VZ": 8.0, "RITM": 9.0, "OMF": 9.0, "ZIM": 8.0, "BAC": 5.0, "DSWL": 8.0}, "frequency": 90, "name": "", "period": "days"}
