@@ -1,1 +1,1 @@
-{"allocations": {"CALM": 20.0, "GM": 20.0, "MHO": 20.0, "FSLR": 20.0, "EC": 20.0}, "frequency": 3, "name": "Daly Asset Management Top Five", "period": "months"}
+{"allocations": {"CALM": 20.0, "GM": 20.0, "MHO": 20.0, "FSLR": 20.0, "EC": 20.0}, "frequency": 90, "name": "Daly Asset Management Top Five", "period": "days"}
