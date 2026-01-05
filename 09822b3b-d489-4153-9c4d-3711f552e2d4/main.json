@@ -1,1 +1,1 @@
-{"allocations": {"LAC": 25.0, "S": 7.5, "CRWD": 10.0, "PANW": 7.5, "RDDT": 7.5, "HIMS": 7.5, "ZIM": 10.0, "CALM": 25.0}, "frequency": 90, "name": "Daly Asset Management Speculative Growth", "period": "days"}
+{"allocations": {"LAC": 25.0, "S": 7.5, "CRWD": 2.5, "PANW": 2.5, "RDDT": 2.5, "HIMS": 5.0, "CALM": 25.0, "MU": 30.0}, "frequency": 90, "name": "Daly Asset Management Speculative Growth", "period": "days"}
