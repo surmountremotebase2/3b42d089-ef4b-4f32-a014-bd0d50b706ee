@@ -1,1 +1,1 @@
-{"allocations": {"ACGL": 5.0, "AMZN": 7.5, "CALM": 7.5, "BAC": 5.5, "DSWL": 7.5, "EC": 7.5, "FSLR": 7.5, "GM": 10.0, "GOOG": 5.0, "META": 14.5, "MHO": 10.0, "MSFT": 2.5, "PBR": 4.0, "MU": 6.0}, "frequency": 90, "name": "Daly Asset Management Core Return Focused", "period": "days"}
+{"allocations": {"ACGL": 5.0, "AMZN": 7.5, "CALM": 7.5, "BAC": 5.5, "DSWL": 7.5, "EC": 7.5, "FSLR": 7.5, "GM": 10.0, "GOOG": 5.0, "META": 14.5, "MHO": 10.0, "MSFT": 2.5, "PBR": 4.0, "MU": 6.0}, "frequency": 5, "name": "Daly Asset Management Core Return Focused", "period": "days"}
