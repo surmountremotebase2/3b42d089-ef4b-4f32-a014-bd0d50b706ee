@@ -1,1 +1,1 @@
-{}
+{"allocations": {"GOOG": 10.0, "NVDA": 15.0, "MSFT": 10.0, "MU": 15.0, "META": 10.0, "PLTR": 10.0, "ORCL": 10.0, "INTC": 10.0, "ARM": 10.0}, "frequency": 30, "name": "Daly Asset Management AI", "period": "days"}
