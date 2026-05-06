@@ -1,1 +1,1 @@
-{"allocations": {"META": 14.0, "MU": 10.0, "SNDK": 10.0, "GOOG": 8.0, "DSWL": 7.0, "FSLR": 5.0, "GM": 10.0, "INTC": 10.0, "MHO": 9.0, "AMZN": 7.0, "EC": 5.0, "PBR": 5.0}, "frequency": 80, "name": "Daly Asset Management Core Return Focused", "period": "days"}
+{"allocations": {"META": 14.0, "MU": 10.0, "SNDK": 10.0, "GOOG": 8.0, "DSWL": 7.0, "FSLR": 5.0, "GM": 10.0, "INTC": 10.0, "MHO": 9.0, "AMZN": 7.0, "EC": 5.0, "PBR": 5.0}, "frequency": 1, "name": "Daly Asset Management Equity Growth", "period": "days"}
